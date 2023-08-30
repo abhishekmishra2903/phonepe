@@ -2,11 +2,11 @@
 streamlit application from phonepe pulse data.
 
 Phonepe has provided some exciting set of data at https://github.com/PhonePe/pulse#readme. Some of the key data points available for each quarter since 2018 are as follows:
-a) Transaction count at state and district level
-b) Transaction amount at state and district level
-c) Registered users at state and district level
-d) Total app opens at state and district level
-e) Data of Transaction count and Transaction amount are available across 5 different categories, as:
+1) Transaction count at state and district level
+2) Transaction amount at state and district level
+3) Registered users at state and district level
+4) Total app opens at state and district level
+5) Data of Transaction count and Transaction amount are available across 5 different categories, as:
   1) Recharge and bill payments
   2) Peer to peer payments
   3) Merchant payments
