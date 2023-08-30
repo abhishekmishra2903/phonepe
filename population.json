@@ -1,0 +1,182 @@
+[
+  {
+    "State": "andaman-&-nicobar-islands",
+    "Population": 380581,
+    "Urban_percent": 37.7
+  },
+  {
+    "State": "andhra-pradesh",
+    "Population": 49577103,
+    "Urban_percent": 29.47
+  },
+  {
+    "State": "arunachal-pradesh",
+    "Population": 1383727,
+    "Urban_percent": 22.94
+  },
+  {
+    "State": "assam",
+    "Population": 31205576,
+    "Urban_percent": 14.1
+  },
+  {
+    "State": "bihar",
+    "Population": 104099452,
+    "Urban_percent": 11.29
+  },
+  {
+    "State": "chandigarh",
+    "Population": 1055450,
+    "Urban_percent": 97.25
+  },
+  {
+    "State": "chhattisgarh",
+    "Population": 25545198,
+    "Urban_percent": 23.24
+  },
+  {
+    "State": "dadra-&-nagar-haveli-&-daman-&-diu",
+    "Population": 585764,
+    "Urban_percent": 58.43
+  },
+  {
+    "State": "delhi",
+    "Population": 16787941,
+    "Urban_percent": 97.5
+  },
+  {
+    "State": "goa",
+    "Population": 1458545,
+    "Urban_percent": 62.17
+  },
+  {
+    "State": "gujarat",
+    "Population": 60439692,
+    "Urban_percent": 42.6
+  },
+  {
+    "State": "haryana",
+    "Population": 25351462,
+    "Urban_percent": 34.88
+  },
+  {
+    "State": "himachal-pradesh",
+    "Population": 6864602,
+    "Urban_percent": 10.03
+  },
+  {
+    "State": "jammu-&-kashmir",
+    "Population": 12267032,
+    "Urban_percent": 26.11
+  },
+  {
+    "State": "jharkhand",
+    "Population": 32988134,
+    "Urban_percent": 24.05
+  },
+  {
+    "State": "karnataka",
+    "Population": 61095297,
+    "Urban_percent": 38.67
+  },
+  {
+    "State": "kerala",
+    "Population": 33406061,
+    "Urban_percent": 47.7
+  },
+  {
+    "State": "ladakh",
+    "Population": 274000,
+    "Urban_percent": 84
+  },
+  {
+    "State": "lakshadweep",
+    "Population": 64473,
+    "Urban_percent": 78.07
+  },
+  {
+    "State": "madhya-pradesh",
+    "Population": 72626809,
+    "Urban_percent": 27.63
+  },
+  {
+    "State": "maharashtra",
+    "Population": 112374333,
+    "Urban_percent": 45.22
+  },
+  {
+    "State": "manipur",
+    "Population": 2570390,
+    "Urban_percent": 30.21
+  },
+  {
+    "State": "meghalaya",
+    "Population": 2966889,
+    "Urban_percent": 20.07
+  },
+  {
+    "State": "mizoram",
+    "Population": 1097206,
+    "Urban_percent": 52.11
+  },
+  {
+    "State": "nagaland",
+    "Population": 1978502,
+    "Urban_percent": 28.86
+  },
+  {
+    "State": "odisha",
+    "Population": 41974219,
+    "Urban_percent": 16.69
+  },
+  {
+    "State": "puducherry",
+    "Population": 1247953,
+    "Urban_percent": 68.33
+  },
+  {
+    "State": "punjab",
+    "Population": 27743338,
+    "Urban_percent": 37.48
+  },
+  {
+    "State": "rajasthan",
+    "Population": 68548437,
+    "Urban_percent": 24.87
+  },
+  {
+    "State": "sikkim",
+    "Population": 610577,
+    "Urban_percent": 25.15
+  },
+  {
+    "State": "tamil-nadu",
+    "Population": 72147030,
+    "Urban_percent": 48.4
+  },
+  {
+    "State": "telangana",
+    "Population": 35003674,
+    "Urban_percent": 38.88
+  },
+  {
+    "State": "tripura",
+    "Population": 3673917,
+    "Urban_percent": 26.17
+  },
+  {
+    "State": "uttar-pradesh",
+    "Population": 199812341,
+    "Urban_percent": 22.27
+  },
+  {
+    "State": "uttarakhand",
+    "Population": 10086292,
+    "Urban_percent": 30.23
+  },
+  {
+    "State": "west-bengal",
+    "Population": 91276115,
+    "Urban_percent": 31.87
+  }
+]
