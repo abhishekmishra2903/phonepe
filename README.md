@@ -6,7 +6,8 @@ Phonepe has provided some exciting set of data at https://github.com/PhonePe/pul
 2) Transaction amount at state and district level
 3) Registered users at state and district level
 4) Total app opens at state and district level
-5) Data of Transaction count and Transaction amount are available across 5 different categories, as:
+
+Data of Transaction count and Transaction amount are available across 5 different categories, as:
   1) Recharge and bill payments
   2) Peer to peer payments
   3) Merchant payments
