@@ -335,7 +335,7 @@ if level=='Country':
                 state_name=data_dict['State'][i]
                 data_dict['id'].append(state_id_map[state_name])
             df=pd.DataFrame(data_dict)
-            fig=px.choropleth(df, locations='id',geojson=india_states,hover_name='State', color='Transaction_count/Population', center={'lat':24,'lon':78})
+            fig=px.choropleth(df, locations='id',geojson=india_states,hover_name='State', color='Transaction_count/Population', center={'lat':24,'lon':78},color_continuous_scale=px.colors.sequential.speed)
             fig.update_geos(fitbounds='locations', visible=False)
             st.plotly_chart(fig)
 
@@ -371,7 +371,7 @@ if level=='Country':
                 state_name=data_dict['State'][i]
                 data_dict['id'].append(state_id_map[state_name])
             df=pd.DataFrame(data_dict)
-            fig=px.choropleth(df, locations='id',geojson=india_states,hover_name='State', color='Transaction_amount/Population', center={'lat':24,'lon':78})
+            fig=px.choropleth(df, locations='id',geojson=india_states,hover_name='State', color='Transaction_amount/Population', center={'lat':24,'lon':78},color_continuous_scale=px.colors.sequential.speed)
             fig.update_geos(fitbounds='locations', visible=False)
             st.plotly_chart(fig)
             
@@ -408,7 +408,7 @@ if level=='Country':
                 state_name=data_dict['State'][i]
                 data_dict['id'].append(state_id_map[state_name])
             df=pd.DataFrame(data_dict)
-            fig=px.choropleth(df, locations='id',geojson=india_states,hover_name='State', color='Transaction_count/Population', center={'lat':24,'lon':78})
+            fig=px.choropleth(df, locations='id',geojson=india_states,hover_name='State', color='Transaction_count/Population', center={'lat':24,'lon':78},color_continuous_scale=px.colors.sequential.speed)
             fig.update_geos(fitbounds='locations', visible=False)
             st.plotly_chart(fig)
 
@@ -444,7 +444,7 @@ if level=='Country':
                 state_name=data_dict['State'][i]
                 data_dict['id'].append(state_id_map[state_name])
             df=pd.DataFrame(data_dict)
-            fig=px.choropleth(df, locations='id',geojson=india_states,hover_name='State', color='Transaction_amount/Population', center={'lat':24,'lon':78})
+            fig=px.choropleth(df, locations='id',geojson=india_states,hover_name='State', color='Transaction_amount/Population', center={'lat':24,'lon':78},color_continuous_scale=px.colors.sequential.speed)
             fig.update_geos(fitbounds='locations', visible=False)
             st.plotly_chart(fig)
 
@@ -509,7 +509,7 @@ if level=='Country':
                 state_name=data_dict['State'][i]
                 data_dict['id'].append(state_id_map[state_name])
             df=pd.DataFrame(data_dict)
-            fig=px.choropleth(df, locations='id',geojson=india_states,hover_name='State', color='Registered_users/Population', center={'lat':24,'lon':78})
+            fig=px.choropleth(df, locations='id',geojson=india_states,hover_name='State', color='Registered_users/Population', center={'lat':24,'lon':78},color_continuous_scale=px.colors.sequential.speed)
             fig.update_geos(fitbounds='locations', visible=False)
             st.plotly_chart(fig)
             
@@ -544,7 +544,7 @@ if level=='Country':
                 state_name=data_dict['State'][i]
                 data_dict['id'].append(state_id_map[state_name])
             df=pd.DataFrame(data_dict)
-            fig=px.choropleth(df, locations='id',geojson=india_states,hover_name='State', color='App_opens/Population', center={'lat':24,'lon':78})
+            fig=px.choropleth(df, locations='id',geojson=india_states,hover_name='State', color='App_opens/Population', center={'lat':24,'lon':78},color_continuous_scale=px.colors.sequential.speed)
             fig.update_geos(fitbounds='locations', visible=False)
             st.plotly_chart(fig)
             
@@ -580,7 +580,7 @@ if level=='Country':
                 state_name=data_dict['State'][i]
                 data_dict['id'].append(state_id_map[state_name])
             df=pd.DataFrame(data_dict)
-            fig=px.choropleth(df, locations='id',geojson=india_states,hover_name='State', color='Transaction_amount/Registered_users', center={'lat':24,'lon':78})
+            fig=px.choropleth(df, locations='id',geojson=india_states,hover_name='State', color='Transaction_amount/Registered_users', center={'lat':24,'lon':78},color_continuous_scale=px.colors.sequential.speed)
             fig.update_geos(fitbounds='locations', visible=False)
             st.plotly_chart(fig)
 
@@ -616,7 +616,7 @@ if level=='Country':
                 state_name=data_dict['State'][i]
                 data_dict['id'].append(state_id_map[state_name])
             df=pd.DataFrame(data_dict)
-            fig=px.choropleth(df, locations='id',geojson=india_states,hover_name='State', color='Transaction_amount/Registered_users', center={'lat':24,'lon':78})
+            fig=px.choropleth(df, locations='id',geojson=india_states,hover_name='State', color='Transaction_amount/Registered_users', center={'lat':24,'lon':78},color_continuous_scale=px.colors.sequential.speed)
             fig.update_geos(fitbounds='locations', visible=False)
             st.plotly_chart(fig)
 
@@ -651,7 +651,7 @@ if level=='Country':
                 state_name=data_dict['State'][i]
                 data_dict['id'].append(state_id_map[state_name])
             df=pd.DataFrame(data_dict)
-            fig=px.choropleth(df, locations='id',geojson=india_states,hover_name='State', color='App_opens/Registered_users', center={'lat':24,'lon':78})
+            fig=px.choropleth(df, locations='id',geojson=india_states,hover_name='State', color='App_opens/Registered_users', center={'lat':24,'lon':78},color_continuous_scale=px.colors.sequential.speed)
             fig.update_geos(fitbounds='locations', visible=False)
             st.plotly_chart(fig)
 
