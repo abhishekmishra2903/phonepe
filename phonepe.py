@@ -42,7 +42,7 @@ st.markdown('<style>div.block-container{padding-top:2rem;}</style>',unsafe_allow
 # be used often because the data in the git-clone file gets updated
 # quarterly only.
 
-data_upload=st.button('Update data over SQL server')
+data_upload=st.sidebar.button('Update data over SQL server')
 if data_upload==True:
 
 # deleting the earlier data if any and upload new one
